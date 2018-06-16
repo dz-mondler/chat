@@ -1,0 +1,17 @@
+D:\myFile\File\C#Project\server2.0\bin\Debug\server2.0.exe.config
+D:\myFile\File\C#Project\server2.0\bin\Debug\server2.0.exe
+D:\myFile\File\C#Project\server2.0\bin\Debug\server2.0.pdb
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2._0.Form1.resources
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2._0.Properties.Resources.resources
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2.0.csproj.GenerateResource.Cache
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2.0.exe
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2.0.pdb
+D:\myFile\File\C#Project\server2.0\obj\Debug\server2.0.csprojResolveAssemblyReference.cache
+D:\myFile\桌面\chat\server2.0\bin\Debug\server2.0.exe.config
+D:\myFile\桌面\chat\server2.0\obj\Debug\server2.0.exe
+D:\myFile\桌面\chat\server2.0\obj\Debug\server2.0.pdb
+D:\myFile\桌面\chat\server2.0\bin\Debug\server2.0.exe
+D:\myFile\桌面\chat\server2.0\bin\Debug\server2.0.pdb
+D:\myFile\桌面\chat\server2.0\obj\Debug\server2._0.Form1.resources
+D:\myFile\桌面\chat\server2.0\obj\Debug\server2._0.Properties.Resources.resources
+D:\myFile\桌面\chat\server2.0\obj\Debug\server2.0.csproj.GenerateResource.Cache
